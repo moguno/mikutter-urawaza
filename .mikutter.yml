@@ -1,0 +1,10 @@
+---
+slug: :mikutter-urawaza
+depends:
+  mikutter: 3.0.1
+  plugin:
+  - gui
+version: '0.0.1'
+author: 
+name: mikutter-urawaza
+description: urawaza
